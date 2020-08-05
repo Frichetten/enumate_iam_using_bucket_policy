@@ -1,0 +1,2 @@
+aws-service-role/guardduty.amazonaws.com/AWSServiceRoleForAmazonGuardDuty
+aws-service-role/organizations.amazonaws.com/AWSServiceRoleForOrganizations
