@@ -35,6 +35,6 @@ with open(wordlist, 'r') as r:
 
         try:
             bucket_policy.put(Policy=policy_json)
-            print("User Found!:", name)
+            print("%s Found!: %s" % (principal, name[:-1]))
         except botocore.exceptions.ClientError as error:
             None

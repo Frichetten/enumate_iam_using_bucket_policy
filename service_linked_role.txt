@@ -1,2 +1,7 @@
 aws-service-role/guardduty.amazonaws.com/AWSServiceRoleForAmazonGuardDuty
 aws-service-role/organizations.amazonaws.com/AWSServiceRoleForOrganizations
+aws-service-role/sso.amazonaws.com/AWSServiceRoleForSSO
+aws-service-role/trustedadvisor.amazonaws.com/AWSServiceRoleForTrustedAdvisor
+aws-service-role/config.amazonaws.com/AWSServiceRoleForConfig
+aws-service-role/rds.amazonaws.com/AWSServiceRoleForRDS
+aws-service-role/elasticloadbalancing.amazonaws.com/AWSServiceRoleForElasticLoadBalancing
