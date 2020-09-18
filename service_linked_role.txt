@@ -5,3 +5,16 @@ aws-service-role/trustedadvisor.amazonaws.com/AWSServiceRoleForTrustedAdvisor
 aws-service-role/config.amazonaws.com/AWSServiceRoleForConfig
 aws-service-role/rds.amazonaws.com/AWSServiceRoleForRDS
 aws-service-role/elasticloadbalancing.amazonaws.com/AWSServiceRoleForElasticLoadBalancing
+aws-service-role/backup.amazonaws.com/AWSServiceRoleForBackup
+aws-service-role/elasticfilesystem.amazonaws.com/AWSServiceRoleForAmazonElasticFileSystem
+aws-service-role/batch.amazonaws.com/AWSBatchServiceRole
+aws-service-role/autoscaling.amazonaws.com/AWSServiceRoleForAutoScaling
+aws-service-role/ecs.amazonaws.com/AWSServiceRoleForECS
+aws-service-role/elasticloadbalancing.amazonaws.com/AWSServiceRoleForElasticLoadBalancing
+aws-service-role/dax.amazonaws.com/AWSServiceRoleForDAX
+aws-service-role/cloudhsm.amazonaws.com/AWSServiceRoleForCloudHSM
+aws-service-role/email.cognito-idp.amazonaws.com/AmazonCognitoIdpEmailService
+aws-service-role/inspector.amazonaws.com/AWSServiceRoleForAmazonInspector
+aws-service-role/cks.kms.amazonaws.com/AWSServiceRoleForKeyManagementServiceCustomKeyStores
+aws-service-role/macie.amazonaws.com/AWSServiceRoleForAmazonMacie
+aws-service-role/securityhub.amazonaws.com/AWSServiceRoleForSecurityHub
